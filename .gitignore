@@ -1,0 +1,11 @@
+.venv/
+.tools/
+__pycache__/
+.ipynb_checkpoints/
+data/
+outputs/
+*.keras
+*.h5
+kaggle.json
+.env
+archive_notebooks/
